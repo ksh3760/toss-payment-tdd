@@ -1,7 +1,8 @@
 {
-  "name": "toss-payment-tdd",
+  "name": "toss-payments-product-payment-system",
   "version": "0.1.0",
   "private": true,
+  "description": "Toss Payments 상품 결제 시스템 - TDD 방법론으로 구현한 완전한 결제 솔루션",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
